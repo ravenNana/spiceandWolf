@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: "https://github.com/ravenNana/spiceandWolf.git" # blog 存放在 Github repo 的位置
+  repo: "ravenNana/spiceandWolf" # blog 存放在 Github repo 的位置
   branch: "master" # 分支
   site_url: "https://spiceandwolf.netlify.app" # 你的網站網址
 media_folder: "static/img" # 存放多媒體的資料夾
