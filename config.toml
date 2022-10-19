@@ -2,10 +2,3 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = '辛狼'
 theme = "PaperMod"
-
-enableRobotsTXT: true
-buildDrafts: false
-buildFuture: false
-buildExpired: false
-
-googleAnalytics: UA-123-45
