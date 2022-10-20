@@ -2,10 +2,8 @@
 title: Ankle Sprain (腳踝扭傷) 的基本知識
 date: 2022-10-20T09:56:49.446Z
 description: 腳踝扭傷幾乎是僅次上下背痛最常見的疾病了
-tags:
-  - 腳踝
-categories:
-  - 臨床
+tags: []
+categories: []
 ---
 踝關節扭傷事件與不良的長期結果（如 CAI 和創傷後骨關節炎）之間的關聯。
 
