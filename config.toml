@@ -1,3 +1,4 @@
+
 baseURL = "https://spiceandwolf.netlify.app/"
 title = "辛狼"
 paginate = 5
@@ -7,7 +8,8 @@ enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
 buildExpired = false
-googleAnalytics = "UA-123-45"
+
+googleAnalytics = "G-E9SCMW3N27"
 pygmentsUseClasses = true
 
 [minify]
@@ -70,8 +72,8 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "Hi there 👋"
-  Content = "Welcome to my blog"
+  Title = "辛與狼的舊筆記本 👋"
+  Content = "紀載關於醫學、架構、其他零碎事物的地方"
 
   [[params.socialIcons]]
   name = "twitter"
