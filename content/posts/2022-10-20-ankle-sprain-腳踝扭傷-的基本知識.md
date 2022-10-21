@@ -20,8 +20,6 @@ Anterior talocrural joint laxity 可以握住腳底往前拉，如果受傷腳�
   squeeze test
   crossed leg test
 
-
-
 * 休息、冰敷、加壓和抬高 (RICE)
 * 冰敷一般建議每兩個小時20分鐘。
 * NSAID 方面，似乎diclofenic的效果比較好。
