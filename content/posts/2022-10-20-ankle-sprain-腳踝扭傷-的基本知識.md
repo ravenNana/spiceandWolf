@@ -16,9 +16,9 @@ categories: []
 Anterior talocrural joint laxity 可以握住腳底往前拉，如果受傷腳踝的 10 毫米位移或超過 3-4 毫米的平移差異表明 ATFL 撕裂。需要注意的是，在受傷後的幾天內，在急性情況下（尤其是發生關節積液時），由於疼痛和腫脹，體格檢查可能是非特異性的。因此，所有患者應在 3-5 天后再次檢查。結果表明，與應力射線照相、超聲和關節造影相比，這種延遲檢查中的 ADT 產生了最好的結果，敏感性為 96%，特異性為 84%（2 級）
 
 有三種test來確定有沒有syndesmosis的傷害，這些test都是sen低spe高的測試，只要有(+)就有很高機會受傷。
-  external rotation stress test
-  squeeze test
-  crossed leg test
+external rotation stress test
+squeeze test
+crossed leg test
 
 * 休息、冰敷、加壓和抬高 (RICE)
 * 冰敷一般建議每兩個小時20分鐘。
